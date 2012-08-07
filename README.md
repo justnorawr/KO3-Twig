@@ -3,6 +3,14 @@ KO3-Twig
 
 Twig Templating Engine wrapper for Kohana.
 
+This module wraps twigs functionality and provides a template controller to extend.
+
+
+Example
+=========
+
+
+
 License
 =========
 
